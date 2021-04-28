@@ -7,7 +7,7 @@ Open Terminal and type "cd " and drag this folder into the window and press Ente
 
 Type "chmod u+x" and drag the lp2Setup.sh file into the Terminal window and hit Enter.
 
---------------------------------------USAGE---------------------------------------------
+--------------------------------------USAGE-------------------------------------------
 
 Power off your phone and hold volume DOWN and POWER until you feel the phone vibrate. 
 
