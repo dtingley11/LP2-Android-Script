@@ -19,7 +19,7 @@ Report any bugs to me at dtingley11222@gmail.com
 
 I am not responsible for anything the happens to your phone!!! 
 
-THIS SCRIPT IS NOT UNDER THE LICENSE (NOTICE.txt) FOUND IN THIS FOLDER! 
+THIS SCRIPT IS NOT UNDER THE LICENSE (NOTICE.txt) FOUND IN THE .zip  
 
                 @@*    .@@@     @@@              @@   *@/                                  
                  @@    @@ @@    @@  @@ @@@ (@* @@@@@ @@@@@    @@@@@@    @@ @@@@@           
