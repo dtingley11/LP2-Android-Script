@@ -7,6 +7,13 @@ Open Terminal and type "cd " and drag this folder into the window and press Ente
 
 Type "chmod u+x" and drag the lp2Setup.sh file into the Terminal window and hit Enter.
 
+Windows: Install Git, which is included in the folder. 
+
+Open Git and type "cd " and drag this folder into the window and press Enter.
+
+Type "chmod u+x" and drag the lp2Setup.sh file into the Git window and hit Enter.
+
+
 --------------------------------------USAGE-------------------------------------------
 
 Power off your phone and hold volume DOWN and POWER until you feel the phone vibrate. 
