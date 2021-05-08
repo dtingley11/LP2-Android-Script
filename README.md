@@ -7,8 +7,7 @@ Open Terminal and type "cd " and drag this folder into the window and press Ente
 
 Type "chmod u+x" and drag the lp2Setup.sh file into the Terminal window and hit Enter.
 
-Windows: Install Git, which is included in the folder. 
-
+Windows: Install Git, which can be found here: https://git-scm.com/download/win
 Open Git and type "cd " and drag this folder into the window and press Enter.
 
 Type "chmod u+x" and drag the lp2Setup.sh file into the Git window and hit Enter.
